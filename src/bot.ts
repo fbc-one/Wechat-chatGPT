@@ -145,7 +145,6 @@ export class ChatGPTBot {
   }
 
   async onPrivateMessage(talker: ContactInterface, text: string) {
-    const talkerId = talker.id;
     const gptMessage = await this.getGPTMessage(text);
     await this.trySay(talker, gptMessage);
   }
