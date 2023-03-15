@@ -3,7 +3,7 @@ dotenv.config();
 import { IConfig } from "./interface";
 
 export const config: IConfig = {
-  openai_api_key: process.env.OPENAI_API_KEY || "123456789",
+  openai_api_key: process.env.OPENAI_API_KEY || "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",
   model: process.env.MODEL || "gpt-3.5-turbo",
   chatPrivateTiggerKeyword: process.env.CHAT_PRIVATE_TRIGGER_KEYWORD || "",
   chatTiggerRule: process.env.CHAT_TRIGGER_RULE || "",
