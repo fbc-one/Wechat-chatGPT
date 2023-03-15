@@ -123,16 +123,6 @@ npm run dev
 > 请确保您的账号可以登陆 [网页版微信](https://wx.qq.com/)。
 
 
-## ✨ Contributor
-
-<a href="https://github.com/fuergaosi233/wechat-chatgpt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=fuergaosi233/wechat-chatgpt" />
-</a>
-
-## 🤝 为项目添砖加瓦
-
-欢迎提出 Contributions, issues 与 feature requests!<br />随时查看 [issues page](https://github.com/fuergaosi233/wechat-chatgpt/issues).
-
 ## 感谢支持 🙏
 
 如果这个项目对你产生了一点的帮助，请为这个项目点上一颗 ⭐️
