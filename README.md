@@ -128,17 +128,6 @@ npm npm dev
 
 > Please make sure your WeChat account can log in [WeChat on web](https://wx.qq.com/)
 
-## ✨ Contributor
-
-<a href="https://github.com/fuergaosi233/wechat-chatgpt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=fuergaosi233/wechat-chatgpt" />
-</a>
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to
-check [issues page](https://github.com/fuergaosi233/wechat-chatgpt/issues).
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
