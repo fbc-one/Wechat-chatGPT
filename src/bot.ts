@@ -67,7 +67,7 @@ export class ChatGPTBot {
   async getGPTMessage(text: string): Promise<string> {
     return await sendMessage(text);
   }
-  // Check if the message returned by chatgpt contains masked words]
+  // Check if the message returned by chatgpt contains masked words (VERY IMPORTANT)
   checkChatGPTBlockWords(message: string): boolean {
     if (config.chatgptBlockWords.length == 0) {
       return false;
